@@ -35,4 +35,4 @@
 - A visilization that would be nice to see is the reason for biking i.e traveling to/from work, leasure, or just to get around the city faster.
 - Another visulization that I think would be helpful would be to see the cost to users vs. other modes of transportation in the city ex. (subway pass, bus pass, gas prices) to see if some usage is finicial motivated. 
 
-## Link to the tableau date can be found at https://public.tableau.com/app/profile/alexander.l.norgren/viz/BikeSharing_16496336393230/BikeSharing#1
+## Link to the tableau data can be found at https://public.tableau.com/app/profile/alexander.l.norgren/viz/BikeSharing_16496336393230/BikeSharing#1
