@@ -10,7 +10,7 @@
 
 
 ![8B46DC37-EC72-444B-8D33-134FB1B04D00](https://user-images.githubusercontent.com/96598876/162647451-e190f12b-ea6f-4d98-95b5-587c8ff202ed.jpeg)
-### This heatmap shows that the usage between male and females stays even with each throughout the day, with the heavier hours increasing till 10:00 then a break until around 17:00 
+### This heatmap shows that the usage between male and females stays even with each throughout the day, with the heavier hours increasing till 10:00 then a break until around 17:00 on weekdays. 
 
 ![0C521376-2139-4AC4-8C4A-AB569783EEE8](https://user-images.githubusercontent.com/96598876/162647460-3c83b1cc-1e2b-4ac2-8782-08d510c221de.jpeg)
 ### This graph shows that the trip times between the genders are pretty even with the peak trip time being around 5 min each for males and 7 min for females.
